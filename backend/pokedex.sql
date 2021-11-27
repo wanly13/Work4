@@ -1,6 +1,6 @@
---DROP DATABASE IF EXISTS pokedex;
---CREATE DATABASE pokedex;
---USE pokedex;
+DROP DATABASE IF EXISTS pokedex;
+CREATE DATABASE pokedex;
+USE pokedex;
 
 CREATE TABLE pokemon (
     
